@@ -55,7 +55,7 @@ universities = [
     ['Safahan University of Isfahan'],
     ['Semnan University'],
     ['Shahab Danesh University'],
-    ['Shahed U'],
+    ['Shahed University', 'Shahed U'],
     ['Shahid Bahonar University of Kerman', 'Shahid Bahonar U of Kerman'],
     ['Shahid Beheshti University', 'Shahid Beheshti U'],
     ['Shahid Chamran University of Ahvaz', 'Shahid Chamran U of Ahvaz'],
