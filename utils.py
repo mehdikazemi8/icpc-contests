@@ -90,7 +90,7 @@ class ProvinceHandler:
 
     @staticmethod
     def get_province(university):
-        if university in data.keys():
+        if university in ProvinceHandler.data.keys():
             return ProvinceHandler.data[university]
         else:
             return None
